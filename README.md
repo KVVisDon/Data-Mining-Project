@@ -21,3 +21,4 @@ Week 1 - 23 Nov: Week 1
 - Begin coding process: base rate, cleaning, etc.
 - Construct a first classifier model (logistic regression)
 - First set of predictions made
+- Revised code in order to slightly improve accuracy of initial prediction
