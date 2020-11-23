@@ -18,7 +18,8 @@ Week 0 - 16 Nov: Week 0:
 Week 1 - 23 Nov: Week 1
 
 - Upload Data
-- Begin coding process: base rate, cleaning, etc.
+- Begin coding process: base rate, cleaning, model training, etc.
 - Construct a first classifier model (logistic regression)
 - First set of predictions made
 - Revised code in order to slightly improve accuracy of initial prediction
+- Working to clean up some of the key words in the data set and thus further improve the prediction's accuracy
