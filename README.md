@@ -22,4 +22,5 @@ Week 1 - 23 Nov: Week 1
 - Construct a first classifier model (logistic regression)
 - First set of predictions made
 - Revised code in order to slightly improve accuracy of initial prediction
+- Conducted 3 furthers tests with Logistic Regression functions, without improving accuracy results
 - Working to clean up some of the key words in the data set and thus further improve the prediction's accuracy
