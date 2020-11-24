@@ -4,7 +4,7 @@ This is Team Microsoft's Data Mining Project, for the Data Mining and Machine Le
 
 #### Weekly Updates
 
-Week 0 - 16 Nov: Week 0: 
+Week 0 - 16 Nov: 
 
 - Set up a Repository on GitHub for the Data Mining Project
 - Set up the code, data, documents files
@@ -15,7 +15,7 @@ Week 0 - 16 Nov: Week 0:
 - Joined the DM&ML challenge
 - Invited fellow team members
 
-Week 1 - 23 Nov: Week 1
+Week 1 - 23 Nov:
 
 - Upload Data
 - Begin coding process: base rate, cleaning, model training, etc.
@@ -25,4 +25,4 @@ Week 1 - 23 Nov: Week 1
 - Conducted 3 furthers tests with Logistic Regression functions, without improving accuracy results
 - Working to clean up some of the key words in the data set and thus further improve the prediction's accuracy
 
-Week 2 - 30 Nov: Week 2
+Week 2 - 30 Nov:
