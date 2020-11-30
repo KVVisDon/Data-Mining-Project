@@ -30,3 +30,4 @@ Week 2 - 30 Nov:
 - EDA additions
 - Additional work on the Cleaning of the Data by working on location feature engineering
 - Making a start on kNN & decision tree processes
+- Aesthetic Improvements
