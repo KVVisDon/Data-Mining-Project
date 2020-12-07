@@ -16,3 +16,5 @@
 0.79858;15;06.12.2020;fe : no cleaning, doc2vec, lr = c 1 l2 newton
 0.80998;16;07.12.2020;fe : advanced cleaning, clf : LR 1300 lbfgs tfidf : (1,2) max_df 0,95 + preprocess data_test
 0.80473;17;07.12.2020;fe : advanced cleaning, LogisticRegressionCV(solver='lbfgs',cv = 3, max_iter=1200) + preprocess data_test
+0.81348;18;07.12.2020;"fe : advanced cleaning, 
+classifier = LogisticRegression(solver='lbfgs', max_iter=1300),tfidf = TfidfVectorizer(max_df = 0.95, min_df = 0.0, ngram_range=(1, 2), tokenizer=spacy_token)"
