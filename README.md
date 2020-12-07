@@ -35,7 +35,8 @@ Week 2 - 30 Nov:
 Week 3 - 7 Dec:
 
 - Addition of feature engineering
-- Code Clean Up
+- Working to increase accuracy through further Data Cleaning methods
 - Reorganisation of booklet
 - Working to increase accuracy by working on the location feature in the classifier
+- Working to increase accuracy by using hyperparameter tuning
 - Comparison of different classifier methods to find best accuracy
