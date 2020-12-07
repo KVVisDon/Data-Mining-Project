@@ -31,3 +31,11 @@ Week 2 - 30 Nov:
 - Additional work on the Cleaning of the Data by working on location feature engineering
 - Making a start on kNN & decision tree processes
 - Aesthetic Improvements
+
+Week 3 - 7 Dec:
+
+- Addition of feature engineering
+- Code Clean Up
+- Reorganisation of booklet
+- Working to increase accuracy by working on the location feature in the classifier
+- Comparison of different classifier methods to find best accuracy
