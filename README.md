@@ -26,3 +26,16 @@ Week 1 - 23 Nov:
 - Working to clean up some of the key words in the data set and thus further improve the prediction's accuracy
 
 Week 2 - 30 Nov:
+
+- EDA additions
+- Additional work on the Cleaning of the Data by working on location feature engineering
+- Making a start on kNN & decision tree processes
+- Aesthetic Improvements
+
+Week 3 - 7 Dec:
+
+- Addition of feature engineering
+- Code Clean Up
+- Reorganisation of booklet
+- Working to increase accuracy by working on the location feature in the classifier
+- Comparison of different classifier methods to find best accuracy
