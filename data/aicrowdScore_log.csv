@@ -1,4 +1,4 @@
-﻿Accuracy;try_number;date;model
+Accuracy;try_number;date;model
 0.794;1;19.11.2020;no fe, clf :lr iter 1000 , random state 59, vect
 0.80823;2;21.11.2020;fe : further text processing, lr iter 1000 , random state 59
 0.80560;3;22.11.2020;no fe, lr CV iter 4000 cv 2 random state 59 
@@ -18,3 +18,15 @@
 0.80473;17;07.12.2020;fe : advanced cleaning, LogisticRegressionCV(solver='lbfgs',cv = 3, max_iter=1200) + preprocess data_test
 0.81348;18;07.12.2020;"fe : advanced cleaning, 
 classifier = LogisticRegression(solver='lbfgs', max_iter=1300),tfidf = TfidfVectorizer(max_df = 0.95, min_df = 0.0, ngram_range=(1, 2), tokenizer=spacy_token)"
+0.81523;19;08.12.2020;fe : less cleaning, pipeline = same
+0.81698;20;08.12.2020;fe : special caracters cleaning generalized, pipeline = same
+0.81348;21;08.12.2020;error
+0.81348;22;09.12.2020;error
+0.82049;23;09.12.2020;played with cleaning : english contractions
+0.82224;24;09.12.2020;played with cleaning : english contractions
+0.82224;25;09.12.2020;played with cleaning : english contractions
+0.82224;26;09.12.2020;played with cleaning : english contractions
+0.82136;27;10.12.2020;played with cleaning : english contractions
+0.82312;28;10.12.2020;played with cleaning : english contractions
+0.82224;29;10.12.2020;played with cleaning : english contractions
+0.82399;30;10.12.2020;played with cleaning : english contractions
