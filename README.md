@@ -40,3 +40,9 @@ Week 3 - 7 Dec:
 - Working to increase accuracy by working on the location feature in the classifier
 - Working to increase accuracy by using hyperparameter tuning
 - Comparison of different classifier methods to find best accuracy
+
+Week 4 - 14 Dec - Final Week:
+
+- Final refinements to code: additional cleaning, accuracy improvements, improving the structure of the code, increasing clarity with explanations regarding the code
+- Class presentation preparations
+- Video recording explaining code begun
