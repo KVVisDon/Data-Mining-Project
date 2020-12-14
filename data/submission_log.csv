@@ -1,0 +1,31 @@
+﻿number;accuracy_score;date_of_sub;feature_eng_and_model
+1;0.794;19.11.2020;no fe, clf :lr iter 1000 , random state 59, vect : tfidf
+2;0.80823;21.11.2020;fe : further text processing, same clf and same vect
+3;0.80560;22.11.2020;no fe, lr CV iter 4000 cv 2 random state 59, same vect
+4;0.80735;22.11.2020;no fe, lr CV iter 4000 cv 10 random state 59, same vect
+5;0.80735;22.11.2020;no fe, lr CV iter 4000 cv 5 random state 59, same vect
+6;0.80472;30.11.2020;fe : add keyword x2 to text, lr iter 1000 random state 59, same vect
+7;0.80648;30.11.2020;fe :less cleaning, adding keyword, same clf and vect
+8;0.80998;05.12.2020;fe : same, withoutkeyword, clf : lr CV cv 3, same vect
+9;0.79159;05.12.2020;fe : more same cleaning, adding keyword, same clf
+10;0.80560;05.12.2020;fe : sameintroducing the first try with tuned hyperparameter, same vect
+11;0.80735;05.12.2020;fe _ same, introducing the second try with tuned hyperparameter, same vect
+12;0.80385;05.12.2020;fe : quasi no cleaning (only http..), no keyword, LogisticRegressionCV(solver='lbfgs',cv = 4, max_iter=1200), same vect
+13;0.80823;06.12.2020;fe : no cleaning, same clf and vect
+14;0.80823;06.12.2020;fe : same, same clf, vect = TfidfVectorizer(max_df = 0.25,ngram_range=(1, 3), tokenizer=spacy_token)
+15;0.79858;06.12.2020;fe : same, clf : doc2vec, lr = c 1 l2 newton
+16;0.80998;07.12.2020;! preprocess test data from now on ! fe : advanced cleaning, clf : LR 1300 lbfgs, vect : (1,2) max_df 0,95
+17;0.80473;07.12.2020;fe : advanced cleaning, LogisticRegressionCV(solver='lbfgs',cv = 3, max_iter=1200) + preprocess data_test
+18;0.81348;07.12.2020;fe : advanced cleaning, classifier = LogisticRegression(solver='lbfgs', max_iter=1300),vect = tfidf(max_df = 0.95, min_df = 0.0, ngram_range=(1, 2), tokenizer=spacy_token)
+19;0.81523;08.12.2020;! same clf and vect until the end ! fe : less cleaning
+20;0.81698;08.12.2020;fe : special caracters cleaning generalized
+21;0.81348;08.12.2020;error
+22;0.81348;09.12.2020;error
+23;0.82049;09.12.2020;played with cleaning : english contractions
+24;0.82224;09.12.2020;played with cleaning : english contractions
+25;0.82224;09.12.2020;played with cleaning : english contractions
+26;0.82224;09.12.2020;played with cleaning : english contractions
+27;0.82136;10.12.2020;played with cleaning : english contractions
+28;0.82312;10.12.2020;played with cleaning : english contractions
+29;0.82224;10.12.2020;played with cleaning : english contractions
+30;0.82399;10.12.2020;played with cleaning : english contractions
