@@ -1,8 +1,8 @@
 models;parameter_model;words_vectorizer;parameters_vect;local_evaluation_score;aicrowd_score
 LogisticRegression;solver='lbfgs', penalty = 'l2', max_iter=1300, random_state = 72;TF_IDF;max_df = 0.95, min_df=0, norm='l2', sublinear_tf = True, ngram_range=(1, 2), tokenizer= <spacy_token>;0.815/0.919;0,824
-LogisticRegression;solver='newton-cg', penalty = 'l2',  max_iter=1300, random_state = 72;Doc2Vec;dm=0, vector_size=30, negative=6, hs=0, min_count=1, sample=0, epoch=1000;0.808/0.936;0,8
 LogisticRegressionCV;cv = 3, solver='lbfgs', max_iter=1300, random_state = 72;TF_IDF;max_df = 1, min_df=0, norm='l2', sublinear_tf = True, ngram_range=(1, 2), tokenizer= <spacy_token>;0.790/0.997;0,81
-RandomForest;n_estimators=10, max_depth=330, min_samples_leaf = 1;TF_IDF;max_df = 0.95, min_df=0, norm='l2', sublinear_tf = True, ngram_range=(1, 2), tokenizer= <spacy_token>;0.774/0.935;-
-NearestNeighbours;n_neighbors=3, weights = 'distance;TF_IDF;sublinear_tf=True, norm='l2', encoding='latin-1', ngram_range=(1, 1), tokenizer= <spacy_token>;0.000/0.997;-
-DecisionTree, for texts;criterion = 'gini', max_depth = 100;TF_IDF;sublinear_tf=True, norm='l2', encoding='latin-1', ngram_range=(1, 1), tokenizer= <spacy_token>;0.000/0.904;-
-DecisionTree, for keywords;-;TF_IDF;sublinear_tf=True, norm='l2', encoding='latin-1', ngram_range=(1, 1), tokenizer= <spacy_token>;0.000/0.743;-
+LogisticRegression;solver='newton-cg', penalty = 'l2',  max_iter=1300, random_state = 72;Doc2Vec;dm=0, vector_size=30, negative=6, hs=0, min_count=1, sample=0, epoch=1000;0.808/0.936;0,8
+RandomForest;n_estimators=10, max_depth=330, min_samples_leaf = 1;TF_IDF;max_df = 0.95, min_df=0, norm='l2', sublinear_tf = True, ngram_range=(1, 2), tokenizer= <spacy_token>;0.774/0.935;NaN
+NearestNeighbours;n_neighbors=3, weights = 'distance;TF_IDF;sublinear_tf=True, norm='l2', encoding='latin-1', ngram_range=(1, 1), tokenizer= <spacy_token>;NaN/0.997;NaN
+DecisionTree, for texts;criterion = 'gini', max_depth = 100;TF_IDF;sublinear_tf=True, norm='l2', encoding='latin-1', ngram_range=(1, 1), tokenizer= <spacy_token>;NaN/0.904;NaN
+DecisionTree, for keywords;-;TF_IDF;sublinear_tf=True, norm='l2', encoding='latin-1', ngram_range=(1, 1), tokenizer= <spacy_token>;NaN/0.743;NaN
