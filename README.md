@@ -43,6 +43,6 @@ Week 3 - 7 Dec:
 
 Week 4 - 14 Dec - Final Week:
 
-- Final refinements to code: additional cleaning, accuracy improvements, improving the structure of the code, increasing clarity with explanations regarding the code
+- Final refinements to code: additional cleaning, accuracy improvements, improving the structure of the code, increasing clarity with explanations regarding the code.
 - Class presentation preparations
 - Video recording explaining code begun
