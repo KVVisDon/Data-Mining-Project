@@ -5,4 +5,4 @@ LogisticRegression *;solver='newton-cg', penalty = 'l2',  max_iter=1300, random_
 RandomForest *;n_estimators=10, max_depth=330, min_samples_leaf = 1;TF_IDF;max_df = 0.95, min_df=0, norm='l2', sublinear_tf = True, ngram_range=(1, 2), tokenizer= <spacy_token>;0.774/0.935;NaN
 NearestNeighbours;n_neighbors=3, weights = 'distance;TF_IDF;sublinear_tf=True, norm='l2', encoding='latin-1', ngram_range=(1, 1), tokenizer= <spacy_token>;NaN/0.997;NaN
 DecisionTree, for texts;criterion = 'gini', max_depth = 100;TF_IDF;sublinear_tf=True, norm='l2', encoding='latin-1', ngram_range=(1, 1), tokenizer= <spacy_token>;NaN/0.904;NaN
-DecisionTree, for keywords;-;TF_IDF;sublinear_tf=True, norm='l2', encoding='latin-1', ngram_range=(1, 1), tokenizer= <spacy_token>;NaN/0.743;NaN
+DecisionTree, for keywords;default parameters;TF_IDF;sublinear_tf=True, norm='l2', encoding='latin-1', ngram_range=(1, 1), tokenizer= <spacy_token>;NaN/0.743;NaN
