@@ -63,4 +63,4 @@ The training dataset contained 6471 entries, each with an id, keyword, location,
 ![submissions and accuracy](https://i.postimg.cc/SKKmmyFc/Screen-Shot-2020-12-16-at-19-22-28.png)
 
 #### Video Presentation
-# Youtube link: *to add*
+# Youtube link: https://youtu.be/pqucmTXQbC8 
