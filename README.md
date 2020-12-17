@@ -56,8 +56,8 @@ The training dataset contained 6471 entries, each with an id, keyword, location,
 ##### Week 4 - 14 Dec - Final Week:
 
 - Final refinements to code: additional cleaning, accuracy improvements, improving the structure of the code, increasing clarity with explanations regarding the code.
-- Class presentation preparations
-- Video recording explaining code begun
+- Class presentation
+- Video recording presenting the project completed
 
 #### Submissions
 ![submissions and accuracy](https://i.postimg.cc/SKKmmyFc/Screen-Shot-2020-12-16-at-19-22-28.png)
